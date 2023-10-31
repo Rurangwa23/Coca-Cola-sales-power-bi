@@ -47,4 +47,3 @@ Let's dive into the world of Coca-Cola's sales data and discover valuable insigh
 
 ---
 
-Customize this README description to your specific project and include any additional information that you find relevant. This README provides a clear and engaging introduction to your Coca-Cola Sales Analysis project on GitHub.
